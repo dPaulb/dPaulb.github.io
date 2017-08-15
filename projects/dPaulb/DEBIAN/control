@@ -3,7 +3,7 @@ Author: dPaulb
 Depiction: https://dpaulb.github.io
 Description: dPaulb's App
 Maintainer: dPaulb <choid6180@gmail.com>
-Name: dPaulb
-Package: com.dPaulb.dPaulb
+Name: rgbSlider
+Package: com.dPaulb.rgbSlider
 Section: Applications
 Version: 1.0
