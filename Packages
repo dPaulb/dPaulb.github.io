@@ -1,12 +1,12 @@
 Package: com.dPaulb.BatteryViewer
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: dPaulb <choid6180@gmail.com>
-Filename: ./debs/com.dpaulb.batteryviewer_1.2_iphoneos-arm.deb
-Size: 956844
-MD5sum: d671cc0f90b79fb16ef1f6206f1b5fe0
-SHA1: 1d5bb53ba07c437ef428726f5437ea8abd9fe1a8
-SHA256: c2a3f405fbb284272754e962c216e7195c7706b3016700c3831f540e105a0897
+Filename: ./debs/com.dpaulb.batteryviewer_1.3_iphoneos-arm.deb
+Size: 957534
+MD5sum: 39235ba4012d7d9b2cda0eececd1a413
+SHA1: c6d7764c2b99be169cd6e4d0ac93f32539e8f600
+SHA256: 54e3b5a182d64fb478cc27edc75fd68b9e709fb08c4f2fcd1dda31cb5f3f2699
 Section: Applications
 Description: Battery Percentage Viewer
 Author: dPaulb
@@ -19,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer: dPaulb <choid6180@gmail.com>
 Filename: ./debs/com.dpaulb.dpaulb_1.0_iphoneos-arm.deb
 Size: 16182
-MD5sum: 454f2a96a97efa5bf0a41ec0d5a687b3
-SHA1: d03ec7fa929e5fb070a7d81204176dc8106c4789
-SHA256: 6962bda7c2fb04413e2e7e774a87c31c6454790f543346006350fd4552eb155a
+MD5sum: 9a7054e7da607c4ce07f1d928e4b8cc9
+SHA1: 4053c4100785d6657f21701d6f107c8da093d624
+SHA256: 119fbfb037b8d25abab51dedbbc78e092dd85c3301b7a059db89d649f2b94ed4
 Section: Applications
 Description: dPaulb's App
 Author: dPaulb
@@ -34,9 +34,9 @@ Architecture: iphoneos-arm
 Maintainer: dPaulb <choid6180@gmail.com>
 Filename: ./debs/com.dpaulb.icons_1.0_iphoneos-arm.deb
 Size: 7016
-MD5sum: fce3941932c4b409cb3c322c533e63c6
-SHA1: a5f764e3b9a4fa42247954ee81c94153e75e188a
-SHA256: 337815882c1b607e31ebd0ec9ed8b07bb43c961671247bc10526a3e49fe4f3cf
+MD5sum: 631c716177c636f758adabed1a726e75
+SHA1: 07626c29dc63bc0b347f7fb80cd2e04bd0df7300
+SHA256: 5e372e7236ffc2c343966115859c5f06a6d3d67db804182ae271cd8c63443ab5
 Section: Tweaks
 Description: Adds Icon Images
 Author: dPaulb
@@ -49,9 +49,9 @@ Architecture: iphoneos-arm
 Maintainer: dPaulb <choid6180@gmail.com>
 Filename: ./debs/com.dpaulb.popuponstart_1.0_iphoneos-arm.deb
 Size: 7002
-MD5sum: 85018b76c086bc94ceecd8cbaf1076ed
-SHA1: bfba90e95fddb0104bd0459e2e25164d3b439fff
-SHA256: 648700c24de3ea1535d854ac09543951bbaca8e1dd83cf534dc88f56e5e50a4a
+MD5sum: 411b6f66b3882317f99501c81610197c
+SHA1: bb14682f27d341ab4c96942c1c96794c2ea5c428
+SHA256: 9445ad734f9af3317403cdccc13ffca82fc488fd20da227e2309ec5dcd564dde
 Section: Tweaks
 Description: Adds Icon Images
 Author: dPaulb
@@ -64,9 +64,9 @@ Architecture: iphoneos-arm
 Maintainer: dPaulb <choid6180@gmail.com>
 Filename: ./debs/com.dpaulb.uponstart_1.0_iphoneos-arm.deb
 Size: 6996
-MD5sum: b40b0e5ec5c7b1b8b83dd25aced74807
-SHA1: ec08f74cda227411a5b416cc6a9444dc2fd5a19e
-SHA256: af132c5dfe72fa4ebc7a1bdede24459f028f914e230e8ce6d5bd1c3e5296a47a
+MD5sum: fd5be139f2243954a7eeb0bfe24501e0
+SHA1: 68a0a183e973b4f29a8301d4a792b4284cc330be
+SHA256: dbec658f1c2edeffcdb27d853c53bded610fd9b8acbd4146259e6846f7e117b9
 Section: Tweaks
 Description: Adds Icon Images
 Author: dPaulb
