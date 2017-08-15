@@ -3,10 +3,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: dPaulb <choid6180@gmail.com>
 Filename: ./debs/com.dpaulb.icons_1.0_iphoneos-arm.deb
-Size: 7012
-MD5sum: be27695f916af3763f36b7361c072dba
-SHA1: efc41ecb9019e22011c5d15d50d10a889ccccf03
-SHA256: 1858092917d85aebf30759567116e5e282eea353d51fe49dd19378369b0d18a6
+Size: 7014
+MD5sum: 54d1c6d3820fa0d5a81b5e76e16414cc
+SHA1: f1eb67f2535205e6bf5fa1fe38675d6fde226a28
+SHA256: 7cd1742d799e0d491a46ca61d09e3c98d01461b1f7818ef72b86db5d103b34cd
 Section: Tweaks
 Description: Adds Icon Images
 Author: dPaulb
