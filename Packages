@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: dPaulb <choid6180@gmail.com>
 Filename: ./debs/com.dpaulb.icons_1.0_iphoneos-arm.deb
 Size: 7016
-MD5sum: 6e5fd7f7da19dd03dfb26e0a840eaf3a
-SHA1: 2f59d5bffc69955c6ef5e3a86998a175b62f0bba
-SHA256: bf64f79fdfd6f768a4fdb9f3311f4edefb4d79de6d742cb0bb44033cf1d75f85
+MD5sum: 546d399fa52f25e0c1708282ecce975f
+SHA1: d5d669528d64601c2d530dbca6070d5702fa3a65
+SHA256: dd98d3216e12fb4e41971413e81ada78b0985bac449a24d8d10399f63a50283e
 Section: Tweaks
 Description: Adds Icon Images
 Author: dPaulb
@@ -19,10 +19,10 @@ Architecture: iphoneos-arm
 Maintainer: dPaulb
 Depends: mobilesubstrate
 Filename: ./debs/com.dpaulb.popuponstart_0.0.1_iphoneos-arm.deb
-Size: 5374
-MD5sum: dbe300585eb8c1f90fcd0cd2108a1302
-SHA1: 4a9ef53eee88132381386772e6a03f7890406c64
-SHA256: 10ef8629cf49f317023a181b1b61543b9a5fefb091e3e3968092609eb6b8686e
+Size: 5286
+MD5sum: 6a49ccde96a74a067b7385509fd2d19f
+SHA1: 8e77df27cd5f609cbf0ae32e72a7fd9c5eaba453
+SHA256: 4a702f7ff641bf335229e92a388904ec28fe6c1e5577c25b7e2d94ebe3058894
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: dPaulb
