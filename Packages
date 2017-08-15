@@ -1,3 +1,17 @@
+Package: com.dPaulb.rgbSlider
+Name: rgbSlider
+Version: 0.0.1
+Architecture: iphoneos-arm
+Conflicts: com.dPaulb.rgbSlider
+Description: when you move slider, rgb will be changed
+Maintainer: dPaulb <choid6180@gmail.com>
+Author: dPaulb <choid6180@gmail.com>
+Section: Applications
+Filename: debs//com.dPaulb.rgbSlider_0.0.1-1+debug_iphoneos-arm.deb
+Size: 16170bytes
+MD5sum: f2b2814c3ea43ca0cf2e34280635c8f2
+Depiction: https://dPaulb.github.io
+
 Package: com.dPaulb.popuponstart
 Name: popuponstart
 Version: 1.0.0
