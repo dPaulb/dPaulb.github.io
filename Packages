@@ -1,0 +1,13 @@
+Package: com.dPaulb.popuponstart
+Name: popuponstart
+Version: 1.0.0
+Architecture: iphoneos-arm
+Conflicts: com.dPaulb.popuponstart
+Description: pop up on start~!
+Maintainer: dPaulb <choid6180@gmail.com>
+Author: dPaulb <choid6180@gmail.com>
+Section: Tweaks
+Filename: debs//com.dPaulb.popuponstart_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4932bytes
+MD5sum: bc84c772a1f719753cb5e8516b36c51b
+Depiction: https://dPaulb.github.io
