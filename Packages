@@ -1,12 +1,27 @@
+Package: com.dPaulb.dPaulb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dPaulb <choid6180@gmail.com>
+Filename: ./debs/com.dpaulb.dpaulb_1.0_iphoneos-arm.deb
+Size: 16182
+MD5sum: 15019e84d452a607de7be5b25bc627bf
+SHA1: 2f97c44cc5e77b67dd737ed57cacdf9bd2de9e2e
+SHA256: a7800c76915ddd50501bbb0ff1780f6c66a591668c3f6f48e2240322345a36d5
+Section: Applications
+Description: dPaulb's App
+Author: dPaulb
+Depiction: https://dpaulb.github.io
+Name: dPaulb
+
 Package: com.dPaulb.icons
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: dPaulb <choid6180@gmail.com>
 Filename: ./debs/com.dpaulb.icons_1.0_iphoneos-arm.deb
 Size: 7016
-MD5sum: 8a2f365b8e82d87c1109c584d5a6022a
-SHA1: 4f3dd1acd59929be5ceb5e1d44e400840a4d5da1
-SHA256: 24e9a933d83eebcb5fa1ecacb9d7bc0cc6ccfcc2eb39aca4ae5c20978a5e6636
+MD5sum: 302d7f5796e1d461929139b1b8b85003
+SHA1: 116fd5e7dd81236a6e6d8f42a94e62595bda4a40
+SHA256: 4edaa3a978cdd02e38be6234f9119908154bf4d5250550d86b7ea4025405b589
 Section: Tweaks
 Description: Adds Icon Images
 Author: dPaulb
@@ -19,9 +34,9 @@ Architecture: iphoneos-arm
 Maintainer: dPaulb <choid6180@gmail.com>
 Filename: ./debs/com.dpaulb.popuponstart_1.0_iphoneos-arm.deb
 Size: 7002
-MD5sum: 151b8deed77fb4429296bf60cb90e13b
-SHA1: cd20731e059b02b85ba23dc58886332d4fecdb3a
-SHA256: 97679b0855fed880f454561f49e33d27724cdaf3dd1195f8e79e0437fb5d406a
+MD5sum: 13e82a8f35835d6620389a9d6eef1b5a
+SHA1: 726280015d77e234d53876f17af34c883f8e2803
+SHA256: 6380b8ed4ce18235316f14565dff933dbee032c2e7c20ae13e0e1dce3db7042b
 Section: Tweaks
 Description: Adds Icon Images
 Author: dPaulb
@@ -34,9 +49,9 @@ Architecture: iphoneos-arm
 Maintainer: dPaulb <choid6180@gmail.com>
 Filename: ./debs/com.dpaulb.uponstart_1.0_iphoneos-arm.deb
 Size: 6996
-MD5sum: 6e931aead5c905f4db136f575edefb19
-SHA1: 5374eee0f9d53d5ee6c9f1f797e2657bf8b04f7b
-SHA256: 591cfca0f0b49370431d6bb4c17e7619e2052462778dad29d1f2ee27d7f0b1cf
+MD5sum: 88fb74d1b427169dafeebae353a13404
+SHA1: 567d3e664bbc669dd403ae9c14204d18b8b42fba
+SHA256: 15f05b8433c7f14d8f84464a40405aa87d7dd1328a3c835ef29fa6938a59ca35
 Section: Tweaks
 Description: Adds Icon Images
 Author: dPaulb
