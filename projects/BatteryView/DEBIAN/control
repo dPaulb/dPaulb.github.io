@@ -1,0 +1,9 @@
+Architecture: iphoneos-arm
+Author: dPaulb
+Depiction: https://dpaulb.github.io
+Description: Battery Percentage Viewer
+Maintainer: dPaulb <choid6180@gmail.com>
+Name: dPaulb
+Package: com.dPaulb.BatteryViewer
+Section: Applications
+Version: 1.0
