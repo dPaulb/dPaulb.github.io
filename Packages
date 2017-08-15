@@ -4,12 +4,27 @@ Architecture: iphoneos-arm
 Maintainer: dPaulb <choid6180@gmail.com>
 Filename: ./debs/com.dpaulb.icons_1.0_iphoneos-arm.deb
 Size: 7016
-MD5sum: f595dc6bc4fdf830c966f9190b467774
-SHA1: 46db61a47f244d4b9a20f17fd85c44e706d69507
-SHA256: e0f93d7fc10ef6fbece315f03c78484019266122c54632e7d6a9b52f5b139a20
+MD5sum: 9bbadcca0a429a0b2be71bc5294a9905
+SHA1: 3118056f97d744f1be85488e9d2966f3fc75bf25
+SHA256: 13a15864e03a13cb188b5f230eaab4cd55132f5167de1b9ed83273b5ae672fd5
 Section: Tweaks
 Description: Adds Icon Images
 Author: dPaulb
 Depiction: https://dpaulb.github.io
 Name: icons
+
+Package: com.dPaulb.popuponstart
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dPaulb <choid6180@gmail.com>
+Filename: ./debs/com.dpaulb.popuponstart_1.0_iphoneos-arm.deb
+Size: 7002
+MD5sum: 95b92ca2f16f7d7aaf918bebbc6b2488
+SHA1: a9d5991e5eda56c01e9303e6708acde78ec70768
+SHA256: 8baac4fc83e306ffa8b1b4176dec4fa87df5b5cb22e1222c11cf184462c5ceca
+Section: Tweaks
+Description: Adds Icon Images
+Author: dPaulb
+Depiction: https://dpaulb.github.io
+Name: popuponstart
 

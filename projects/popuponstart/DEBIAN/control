@@ -1,0 +1,9 @@
+Architecture: iphoneos-arm
+Author: dPaulb
+Depiction: https://dpaulb.github.io
+Description: Adds Icon Images
+Maintainer: dPaulb <choid6180@gmail.com>
+Name: popuponstart
+Package: com.dPaulb.popuponstart
+Section: Tweaks
+Version: 1.0
