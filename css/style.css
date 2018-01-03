@@ -1,0 +1,174 @@
+* {
+    margin : 0;
+    padding : 0;
+
+    background : #f1f3f5;
+}
+
+
+
+.grid-wrapper {
+    display: grid;
+    grid-template-columns : 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows : 20% 60% 20%;
+    grid-template-areas: 
+    "sidebar sidebar sidebar sidebar sidebar"
+    "header header header header header"
+    "content content content content content"
+    "footer footer footer footer footer"
+    ;
+
+}
+
+
+.header {
+    grid-area: header;
+    
+    display : flex;
+    justify-content: center;
+    align-items : center;
+
+    font-size : 1.5rem;
+    font-weight : 600;
+    color : white;
+
+
+    background : #dd4c39;
+    
+    padding-top : 1.5rem;
+    padding-bottom : 1.5rem;
+
+    margin-top : 1rem;
+    margin-bottom : 1rem;
+    margin-left : 1rem;
+    margin-right : 1rem;
+
+
+    border-radius: 5px;
+}
+
+.sidebar {
+    grid-area: sidebar;
+
+    background : #222222;
+
+       
+    
+}
+
+.sidebar .title {
+   
+    
+    background : #222222;
+    
+
+    margin-top : 1rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color : white;
+
+    font-size : 2rem;
+    font-weight : 600;
+}
+
+.sidebar .sub-title{
+   
+    
+    background : #222222;
+
+
+    margin-top : 1rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color : white;
+
+    font-size : 1rem;
+    font-weight : 300;
+}
+
+.sidebar .menu-item {
+
+    display: block;
+    
+    background : #222222;
+
+    margin-top : 1rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color : white;
+
+    font-size : 2rem;
+    font-weight : 600;
+
+}
+
+.content {
+    grid-area: content;
+
+   
+    
+}
+
+.footer {
+    grid-area: footer;
+
+    display : flex;
+    justify-content: center;
+    align-items : center;
+
+    font-size : 1.5rem;
+    font-weight : 600;
+    color : white;
+
+
+    background : #dd4c39;
+    
+    padding-top : 1.5rem;
+    padding-bottom : 1.5rem;
+
+    margin-top : 1rem;
+    margin-bottom : 1rem;
+    margin-left : 1rem;
+    margin-right : 1rem;
+
+
+    border-radius: 5px;
+}
+
+@media screen and (min-width : 1025px) {
+
+    .grid-wrapper {
+        display: grid;
+        grid-template-columns : 1fr 1fr 1fr 1fr 1fr;
+        grid-template-rows : 20% 60% 20%;
+        grid-template-areas: 
+        "sidebar header header header header"
+        "sidebar content content content content"
+        "sidebar footer footer footer footer"
+        ;
+    
+    }
+
+    .sidebar {
+        grid-area: sidebar;
+    
+        background : #222222;
+    
+           
+        
+        position: fixed;
+    
+        height :100%;
+        width : 20%; 
+    }
+}
+
