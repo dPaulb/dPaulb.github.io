@@ -16,7 +16,13 @@ main {
 
 }
 
-a[title] figure img {
+a[title] figure img{
+    width : 100%;
+    height : auto;
+    margin-top : 1rem;
+}
+
+iframe {
     width : 100%;
     height : auto;
     margin-top : 1rem;

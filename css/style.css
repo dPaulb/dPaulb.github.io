@@ -100,9 +100,11 @@ body {
     font-weight : 300;
 }
 
-.sidebar .menu-item {
+.sidebar .menu-item a{
 
     display: block;
+
+    text-decoration: none;
     
     background : #222222;
 
