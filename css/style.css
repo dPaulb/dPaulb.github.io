@@ -64,10 +64,36 @@ body {
     padding-top : 1rem;
     padding-bottom : 1rem;
 
-       
+    
 
 }
 
+.sidebar .desktop-sidebar {
+    display: none;
+}
+
+.sidebar .mobile-sidebar{
+    color : white;
+
+    display : block; 
+    align-items: center;
+    justify-content: center;
+
+
+    background : #dd4c39;
+
+    padding-top : 1.0rem;
+    padding-bottom : 1.0rem; 
+    padding-left : 1.0rem;
+    padding-right : 1.0rem;
+
+    margin-top : 1rem;
+    margin-bottom : 1rem;
+    margin-left : 1rem;
+    margin-right : 1rem;
+
+    border-radius : 4px; 
+}
 
 .sidebar .title a{
     background : #222222;
@@ -182,6 +208,10 @@ body {
     
         height :100%;
         width : 20%; 
+    }
+
+    .sidebar .desktop-sidebar {
+        display: inline;
     }
 }
 
