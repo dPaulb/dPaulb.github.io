@@ -4,6 +4,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <title>Home</title>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css"/>
+        <script src="https://use.fontawesome.com/5f3986f363.js"></script>
         <link rel="stylesheet" href="../css/style.css"/>
         <link rel="stylesheet" href="../css/masonry.css"/>
     </head>
@@ -13,31 +14,40 @@
                 Dev
             </div>
             <ul class="sidebar">
-                <li class="title">
-                    <a href="https://dpaulb.github.io">
-                        dPaulb's blog
-                    </a>
-                </li>
-                <li class="sub-title">
-                    <a href="https://dpaulb.github.io">
-                    dev, guitar, music, videos
-                    </a>
-                </li>
-                <li class="menu-item">
-                    <a href="./dev.html">
-                        Dev
-                    </a>
-                </li>
-                <li class="menu-item">
-                    <a href="./guitar.html">
-                        Guitar
-                    </a>
+                    
+                    <li class="title">
+                            <a href="https://dpaulb.github.io">
+                                dPaulb's blog
+                            </a>
                     </li>
-                <li class="menu-item">
-                    <a href="./traveling.html">
-                        Traveling
-                    </a>
-                </li>
+                    <li class="sub-title">
+                            <a href="https://dpaulb.github.io">
+                            dev, guitar, music, videos
+                            </a>
+                    </li>
+                    <div class="mobile-sidebar" id="mobile-sidebar">
+                            Main Menu
+                            <i class="fa fa-align-justify" aria-hidden="true" style="float:right">
+
+                            </i>
+                    </div>
+                        <div class="desktop-sidebar" id="desktop-sidebar">
+                            <li class="menu-item">
+                                <a href="https://dpaulb.github.io/htmls/dev.html">
+                                    Dev
+                                </a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="https://dpaulb.github.io/htmls/dev.html">
+                                    Guitar
+                                </a>
+                                </li>
+                            <li class="menu-item">
+                                <a href="https://dpaulb.github.io/htmls/dev.html">
+                                    Traveling
+                                </a>
+                            </li>
+                        </div>
             </ul>
             <div class="content">
                     <main>
@@ -58,5 +68,12 @@
                     dPaulb's blog
             </div>
         </div>
+        <script>
+                $('#mobile-sidebar').on('click', function(){
+                    $('#desktop-sidebar').toggle('slow');
+                });
+                
+     
+             </script>
     </body>
 </html>
